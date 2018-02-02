@@ -946,6 +946,8 @@ h2.title {
 }
 
 .main-panel>.footer {
+    position: fixed;
+    bottom: 0;
     border-top: 1px solid #e7e7e7;
 }
 
@@ -4950,7 +4952,7 @@ fieldset[disabled] .navbar .btn-link:focus {
 }
 
 footer {
-    padding: 15px 0;
+    padding: 5px 15px;
 }
 
 footer ul {
